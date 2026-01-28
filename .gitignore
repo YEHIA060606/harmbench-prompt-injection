@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Big / generated
+data/results.jsonl
+
+# OS
+.DS_Store
+Thumbs.db

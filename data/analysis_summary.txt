@@ -1,0 +1,17 @@
+SUMMARY
+Total samples: 120
+Global accuracy: 38.3% (46/120)
+Refusal rate (predicted): 11.7% (14/120)
+
+ACCURACY BY TYPE
+contextual: 24.1% (13/54)
+standard: 50.0% (33/66)
+
+ACCURACY BY CATEGORY
+jailbreak: 0.0% (0/14)
+authority: 0.0% (0/18)
+emotional: 0.0% (0/12)
+policy_bypass: 31.8% (7/22)
+fake_system: 50.0% (5/10)
+roleplay: 70.0% (14/20)
+misinformation: 83.3% (20/24)
